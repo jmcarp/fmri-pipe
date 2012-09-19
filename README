@@ -1,0 +1,4 @@
+<fmri-pipe> contains tools for generating and applying many analysis pipelines to fMRI data.
+
+These tools were used to run the analyses and create figures from:
+Carp, J. (2012). On the plurality of (methodological) worlds: Estimating the analytic flexibility of fMRI experients. Frontiers in Brain Imaging Methods, http://dx.doi.org/10.3389/fnins.2012.00149
